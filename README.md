@@ -11,11 +11,13 @@ This is a video reconstruction model that combines 3D-CNN and encoder-decoder mo
 
 
 ## Model
-coming soon
+
+![40.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/583727/91b0ffde-30ef-6226-8e14-54a30e1e0f80.png)
 
 ## Results
-- 5,000 itr(input,output)
-coming soon
+- 4,000 itr(upper:input,output)
+![real_itr4000_no1.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/583727/c13a8820-9eec-b012-9cde-7ffd4e99504b.png)
+![recon_itr4000_no1.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/583727/a99a8df6-999e-b92a-bef7-070b59983081.png)
 
 ## Usage
 - datasetのダウンロード
