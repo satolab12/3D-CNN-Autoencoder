@@ -8,6 +8,7 @@ https://qiita.com/satolab/items/09a90d4006f46e4e959b
 ## Overview
 
 encoder-decoderモデルに3DCNNを組みこんだ，動画再構成モデルです．
+GRU-AEと比較した性能向上は見込めませんでした．
 
 This is a video reconstruction model that combines 3D-CNN and encoder-decoder model.
 
